@@ -1,2 +1,3 @@
 # OpenGreen
-To Be Announced.
+
+The OpenGreen app is designed to help individuals and communities maintain environmental sustainability. OpenGreen focuses on recycling and reuse, designed to help users manage waste wisely and reduce the amount of waste ending up in landfills. OpenGreen's features include fun/interactive activities on how to properly sort waste, information about recycling symbols on packaging, and the location of the nearest drop-off point or waste bank. OpenGreen provides a product barcode scanning feature to identify whether an item is recyclable and how to recycle it. OpenGreen makes it easier for users to make more environmentally friendly decisions when disposing of items.
